@@ -1,0 +1,21 @@
+.gameArea {
+    float: left;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gameArea button {
+    margin: 10px;
+}
+
+.chat {
+    float: right;
+    width: 50%;
+}
+
+.messages {
+    height: 90vh;
+    overflow-y: scroll;
+}
