@@ -2,8 +2,8 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    width: 50vh;
-    height: 50vh;
+    width: 50%;
+    height: 30vh;
 }
 
 .square {
