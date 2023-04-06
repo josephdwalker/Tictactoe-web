@@ -1,0 +1,2 @@
+.board{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);height:30vw;width:30vw}.square{background-color:#fff;border:1px solid #333;cursor:pointer;height:100%;text-align:center;width:100%}.arena,.gameArea{align-items:center;display:flex;flex-direction:column;float:left;width:50%}.gameArea button{margin:10px}.chat{float:right;width:50%}.messages{height:90vh;overflow-y:scroll}.login{left:50%;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
+/*# sourceMappingURL=main.550d2a4b.css.map*/
